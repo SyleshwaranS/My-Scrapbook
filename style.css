@@ -1,0 +1,116 @@
+#body{
+    margin-left: 5%;
+    margin-right: 5%;
+    background-image: url(./images/eagle.jpg);
+    background-color: rgba(255, 255, 255, 0.25);
+    background-blend-mode:hue;
+    background-size: cover;
+}
+#open{
+    color: #fff;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: rgb(255, 145, 0);
+    border:2px solid #000 ;
+    border-radius: 13px;
+}
+h3{
+    color: rgb(255, 0, 0);
+    font-weight: bolder;
+    font-size: xx-large;
+}
+#food{
+    size: 2em;
+    font-size: large;
+    font-weight: bolder;
+    background-image: url(./images/food.jpeg);
+    background-color: rgba(255, 255, 255, 0.5);
+    background-blend-mode:hue;
+    margin-right: 50%;
+    color: #000;
+    margin-top: 20px; 
+    border: 5px solid #dfebfa;
+    box-shadow: 10px 10px 10px #000;
+    border-radius: 20px;
+} 
+#cricket{
+    size: 2em;
+    font-size: large;
+    font-weight: bolder;
+    background-image: url(./images/raina.jpg);
+    backdrop-filter:light;
+   background-color: rgba(255, 255, 255, 0.5);
+    background-blend-mode:hue;
+    margin-left: 50%;
+    color: #000;
+    margin-top: 20px; 
+    border: 5px solid #dfebfa;
+    box-shadow: 5px 5px 5px #000;
+    border-radius: 20px;
+}
+#yercaud{
+    size: 2em;
+    font-size: large;
+    font-weight: bolder;
+    background-image: url(./images/download.jpeg);
+    backdrop-filter:light;
+    background-color: rgba(255, 255, 255, 0.5);
+    background-blend-mode:hue;
+    margin-right: 50%;
+    color: #000;
+    margin-top: 20px; 
+    border: 5px solid #dfebfa;
+    box-shadow: 5px 5px 5px #000;
+    border-radius: 20px;   
+}
+#Movies{
+    size: 2em;
+    font-size: large;
+    font-weight: bolder;
+    background-image: url(./images/download\ \(1\).jpeg);
+    background-size: cover;
+    backdrop-filter:light;
+    background-color: rgba(255, 255, 255, 0.5);
+    background-blend-mode:hue;
+    margin-left: 50%;
+    color: #000;
+    margin-top: 20px; 
+    border: 5px solid #dfebfa;
+    box-shadow: 5px 5px 5px #000;
+    border-radius: 20px;   
+}
+#HMovies{
+    size: 2em;
+    font-size: large;
+    font-weight: bolder;
+    background-image: url(./images/1750088737619.jpg);
+    background-size: cover;
+    backdrop-filter:light;
+    background-color: rgba(255, 255, 255, 0.5);
+    background-blend-mode:hue;
+    margin-right: 50%;
+    color: #000;
+    margin-top: 20px; 
+    border: 5px solid #dfebfa;
+    box-shadow: 5px 5px 5px #000;
+    border-radius: 20px;   
+}
+#school{
+    size: 2em;
+    font-size: large;
+    font-weight: bolder;
+    background-image: url(./images/IMG-20231009-WA0000.jpg);
+    background-size: cover;
+    backdrop-filter:light;
+    background-color: rgba(255, 255, 255, 0.5);
+    background-blend-mode:hue;
+    margin-left: 50%;
+    color: #000;
+    margin-top: 20px; 
+    border: 5px solid #dfebfa;
+    box-shadow: 5px 5px 5px #000;
+    border-radius: 20px;
+}
+
+
+
